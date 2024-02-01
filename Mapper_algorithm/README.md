@@ -1,1 +1,1 @@
-# Feel free to use this code as a guide, remember that TDA requires many algorithms on it's implementation, make sure to take this as a base to your code. Keep in mind that, as many DS tools, you need to know some facts about your data before concluding.
+Feel free to use this code as a guide, remember that TDA requires many algorithms on it's implementation, make sure to take this as a base to your code. Keep in mind that, as many DS tools, you need to know some facts about your data before concluding.
